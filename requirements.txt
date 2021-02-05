@@ -1,0 +1,4 @@
+# python==3.8.5
+matplotlib=3.2.2
+backtrader>=1.9.76.123
+tushare>=1.2.62
